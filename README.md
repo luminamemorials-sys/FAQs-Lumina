@@ -1,2 +1,2 @@
-# faq
+# FAQs
 Faqs Lumina for Funeral home
